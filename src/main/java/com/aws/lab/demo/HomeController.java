@@ -8,7 +8,7 @@ public class HomeController {
 
     @GetMapping("/")
     public String home() {
-        return "Dual Masters";
+        return "Shobu carafuda Dual Masters ";
     }
 
     @GetMapping("/health")
